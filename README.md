@@ -12,8 +12,8 @@ I'm an AI Developer focused on building intelligent systems and solving real-wor
 
 ## 🚀 Projects
 
-- **[Project 1 Name](https://github.com/username/falcon)**: Machine learning model for [short project description].
-- **[Project 2 Name](https://github.com/username/webproject)**: Deep learning application for [short project description].
+- **[Project 1 Name](https://github.com/username/falcon)**: Machine learning model.
+- **[Project 2 Name](https://github.com/username/webproject)**: Deep learning application.
 
 ## 💬 Let's Connect!
 
@@ -23,7 +23,7 @@ I'm an AI Developer focused on building intelligent systems and solving real-wor
 
 ## 🔧 Current Focus
 
-I'm currently focusing on improving my skills in deep learning and reinforcement learning, particularly in [specific area or field, e.g., autonomous systems, AI in healthcare].
+I'm currently focusing on improving my skills in deep learning and reinforcement learning.
 
 ## 🎯 Goals
 
