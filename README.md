@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Emrullah Çınar 👋
 
 I'm an AI Developer passionate about building intelligent systems and solving real-world problems using machine learning, deep learning, and natural language processing. With a background in [Your Background, e.g., software engineering, data science], I focus on creating scalable, data-driven solutions and cutting-edge AI applications.
 
@@ -14,9 +14,8 @@ I'm an AI Developer passionate about building intelligent systems and solving re
 
 Here are some of the AI projects I have worked on:
 
-- **[Project 1 Name](https://github.com/username/project1)**: A machine learning model for [short project description].
-- **[Project 2 Name](https://github.com/username/project2)**: A deep learning application for [short project description].
-- **[Project 3 Name](https://github.com/username/project3)**: A natural language processing model for [short project description].
+- **[Project 1 Name](https://github.com/username/falcon)**: A machine learning model for [short project description].
+- **[Project 2 Name](https://github.com/username/webproject)**: A deep learning application for [short project description].
 
 ## 🧑‍💻 Work Experience
 
